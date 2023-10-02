@@ -1,9 +1,6 @@
-
-
+import Chai from "./Chai";
 function App() {
-  return (
-   <h1>React Practice Vite | Abhay</h1>
-  )
+  return <Chai />;
 }
 
-export default App
+export default App;
